@@ -46,7 +46,7 @@ def get_optimization_ip():
 def changeDNS(line, s_info, c_info, domain, sub_domain, cloud):
     global AFFECT_NUM
     if line == "CM":
-        line = "移动"
+        line = "默认"
     elif line == "CU":
         line = "联通"
     elif line == "CT":
