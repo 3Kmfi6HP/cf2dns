@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Mail: tongdongdong@outlook.com
+# CM =默认
 import base64
 import hashlib
 import hmac
